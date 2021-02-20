@@ -5,6 +5,7 @@
 export const environment = {
   production: false
 };
+export const baseUrl=`http://10.20.20.6:2022/api/`
 
 /*
  * For easier debugging in development mode, you can import the following file
